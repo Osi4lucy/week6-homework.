@@ -1,0 +1,36 @@
+h2 {
+  color:blue;
+}
+button {
+  background-color: #046380;
+  color: #FFF;
+  border: none;
+  padding: 10px 15px;
+  font-size: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 2px 2px 0 #034154;
+  margin-bottom: 5px;
+  margin-left: 15px;
+
+}
+
+button:hover {
+  background-color: #034F66;
+}
+
+button:active {
+  background-color: #034154;
+  box-shadow: none;
+  position: relative;
+  top: -8px;
+  left: 2px;
+}
+input {
+  background-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-color: blue;
+  box-shadow: 2px 2px 0 #034154;
+}
